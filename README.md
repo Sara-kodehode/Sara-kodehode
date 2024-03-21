@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://icons8.com/icon/8gfeOoqrHqJU/figma" width="100px" />
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Sara-kodehode&show_icons=true&theme=ambient_gradient">
  </a>
