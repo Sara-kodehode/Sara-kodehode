@@ -1,5 +1,7 @@
 <div align="center">
+<img src="https://giphy.com/stickers/developer-dev-html-lRNinuXDDLgR7Oe8LY/fullscreen" width="100px" height="100px">
 <img src="https://media.giphy.com/media/JLE3Q31O7Tly08kTbj/giphy.gif" width="100px" height="100px">
+<img src="https://giphy.com/gifs/code-developer-javascript-SvFocn0wNMx0iv2rYz/fullscreen" width="100px" height="100px">
 </div>
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
