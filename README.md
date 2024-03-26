@@ -1,4 +1,6 @@
-<img src="https://media.giphy.com/media/JLE3Q31O7Tly08kTbj/giphy.gif" width="50px" height="50px">
+<div align="center">
+<img src="https://media.giphy.com/media/JLE3Q31O7Tly08kTbj/giphy.gif" width="100px" height="100px">
+</div>
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Sara-kodehode&show_icons=true&theme=nightowl">
